@@ -1,4 +1,4 @@
-var apiKey = "1a8ee782494f2f3297d4c4ba9396bfed";
+var apiKey = "28aa8be900992bf42ef75ee31274ea05";
 const $citySearch = document.querySelector("#city-search");
 const $searchBtn = $("#search-button");
 const $currentWeather = $("#forecastList[0]-weather");
