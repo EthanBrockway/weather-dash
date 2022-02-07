@@ -1,5 +1,5 @@
 ![screencapture-127-0-0-1-5500-index-html-2022-02-06-23_12_16](https://user-images.githubusercontent.com/95703604/152728072-815eb5bc-141a-4ace-a7d9-f99b6eaa977e.png)
-Link to deployed application (https://skronkie.github.io/weather-dash/)
+[Link to deployed application] (https://skronkie.github.io/weather-dash/)
 # Weather-Dash
 
 ## My Task
